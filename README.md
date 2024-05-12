@@ -21,7 +21,7 @@
 
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> 
 
-<img src="https://iconos8.es/icon/55251/c-sharp-logo"/> <img src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
+ <img src="https://img.icons8.com/color/48/000000/sql.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
 
 
 <br>
