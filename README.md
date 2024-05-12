@@ -3,7 +3,7 @@
 - 🏢 Actualmente estoy estudiando Programacion en **UTN** [Universidad Tecnologica Nacional](https://www.frt.utn.edu.ar/)
 - 🏢 tengo experiencia en HTML, CSS, Javascript, en este momento estoy agregando conocimientos de React, Node.js, MongoDB. Para aplicaciones se utilizar C# con base de datos en SQL.
 - 🌍 **Argentina**
-- ⚡ **Hobbit** : cs2
+- ⚡ **Hobbit** : Counter Strike 2 [steam1](https://steamcommunity.com/id/nahuko) [steam2](https://steamcommunity.com/id/nawnet)
 
 <br>
 
