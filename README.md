@@ -1,9 +1,20 @@
 ## Sobre Mi :
 
-- 🏢 Actualmente estoy estudiando Programacion en **UTN** [Universidad Tecnologica Nacional](https://www.frt.utn.edu.ar/)
-- 🏢 tengo experiencia en HTML, CSS, Javascript, en este momento estoy agregando conocimientos de React, Node.js, MongoDB. Para aplicaciones se utilizar C# con base de datos en SQL.
-- 🌍 **Argentina**
-- ⚡ **Hobbit** : Counter Strike 2 [steam1](https://steamcommunity.com/id/nahuko) [steam2](https://steamcommunity.com/id/nawnet)
+Actualmente soy estudiante de segundo año de Programacion en la [Universidad Tecnologica Nacional](https://www.frt.utn.edu.ar/), en ella aprendi lenguajes de programacion como Javascript, C# etc. Ademas de esto estoy perfeccionando por cuenta propia todos los lenguajes aprendidos y proximamente incorporando nuevos.
+
+
+<br>
+
+## Tecnologias :
+
+<br>
+
+▪︎ Lenguajes de Programacion: Javascript, HTML, CSS, C#
+▪︎ Front-end: React
+▪︎ Back-end: Node, Express
+▪︎ Base de datos: SQL, MongoDB
+
+
 
 <br>
 
@@ -12,17 +23,6 @@
 <br>
 
 [![@nahuelpaz](https://img.icons8.com/fluency/48/000000/instagram-new.png "@nahuelpaz")](https://www.instagram.com/nahuelpaz/) [![@nahuel-paz-aa9430250](https://img.icons8.com/fluency/48/000000/linkedin.png "@nahuel-paz-aa9430250")](https://www.linkedin.com/in/nahuel-paz-aa9430250/) [![@nawnuel](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@nawnuel")](https://twitter.com/nawnuel)
-
-<br>
-
-## Lenguajes en los que me manejo 🧑‍💻 :
-
-<br>
-
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> 
-
- <img src="https://img.icons8.com/color/48/000000/sql.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
-
 
 <br>
 
