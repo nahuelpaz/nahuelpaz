@@ -1,11 +1,11 @@
-## Sobre Mi 👾:
+## Sobre Mi 👾
 
 Actualmente soy estudiante de segundo año de Programacion en la [Universidad Tecnologica Nacional](https://www.frt.utn.edu.ar/), en ella aprendi lenguajes de programacion como Javascript, C# etc. Ademas de esto estoy perfeccionando por cuenta propia todos los lenguajes aprendidos y proximamente incorporando nuevos.
 
 
 <br>
 
-## Tecnologias 🧑‍💻:
+## Tecnologias 🧑‍💻
 
 <br>
 
