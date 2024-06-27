@@ -1,6 +1,6 @@
 ## Sobre Mi 👾
 
-Actualmente soy estudiante de segundo año de Programacion en la [Universidad Tecnologica Nacional](https://www.frt.utn.edu.ar/), en ella aprendi lenguajes de programacion como Javascript, C# etc. Ademas de esto estoy perfeccionando por cuenta propia todos los lenguajes aprendidos y proximamente incorporando nuevos.
+Actualmente soy estudiante de segundo año de Programacion en la [Universidad Tecnologica Nacional](https://www.frt.utn.edu.ar/).
 
 
 <br>
@@ -9,7 +9,7 @@ Actualmente soy estudiante de segundo año de Programacion en la [Universidad Te
 
 <br>
 
-▪︎ Lenguajes de Programacion: Javascript, HTML, CSS, C#
+▪︎ Lenguajes de Programacion: Javascript, HTML, CSS
 <br>
 ▪︎ Front-end: React
 <br>
