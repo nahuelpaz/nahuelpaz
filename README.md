@@ -9,7 +9,7 @@ Actualmente soy estudiante de segundo año de Programacion en la [Universidad Te
 
 <br>
 
-▪︎ Lenguajes de Programacion: Javascript, HTML, CSS
+▪︎ Javascript, HTML, CSS
 <br>
 ▪︎ Front-end: React
 <br>
