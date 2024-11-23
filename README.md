@@ -25,7 +25,7 @@ Actualmente soy estudiante de segundo año de Programacion en la [Universidad Te
 
 <br>
 
-[![@nahuelpaz](https://img.icons8.com/fluency/48/000000/instagram-new.png "@nahuelpaz")](https://www.instagram.com/nahuelpaz/) [![@nahuel-paz-aa9430250](https://img.icons8.com/fluency/48/000000/linkedin.png "@nahuel-paz-aa9430250")](https://www.linkedin.com/in/nahuelpazb/) [![@nawnuel](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@nawnuel")](https://twitter.com/nawnuel)
+[![@nahuelpaz](https://img.icons8.com/fluency/48/000000/instagram-new.png "@nahuelpaz")](https://www.instagram.com/nahuelpaz/) [![@nahuel-paz-aa9430250](https://img.icons8.com/fluency/48/000000/linkedin.png "@nahuel-paz-aa9430250")](https://www.linkedin.com/in/nahuelpazb/)
 
 <br>
 
