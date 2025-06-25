@@ -1,31 +1,32 @@
-## Sobre Mi 👾
+# 👋 ¡Hola! Soy Nahuel Paz
 
-Actualmente soy estudiante de segundo año de Programacion en la [Universidad Tecnologica Nacional](https://www.frt.utn.edu.ar/).
+Soy estudiante de segundo año de **Programación** en la [Universidad Tecnológica Nacional (UTN)](https://www.frt.utn.edu.ar/), apasionado por el desarrollo web y en constante aprendizaje.
 
+---
 
-<br>
+## 💻 Tecnologías que manejo
 
-## Tecnologias 🧑‍💻
+### Frontend
+- **HTML**, **CSS**, **JavaScript**
+- **React**
+- **Tailwind CSS**
 
-<br>
+### Backend
+- **Node.js**, **Express.js**
 
-▪︎ Javascript, HTML, CSS
-<br>
-▪︎ Front-end: React
-<br>
-▪︎ Back-end: Node, Express
-<br>
-▪︎ Base de datos: SQL, MongoDB
+### Bases de datos
+- **MongoDB**
+- **PostgreSQL**
+- **SQL**
 
+### Stack principal
+- **MERN (MongoDB, Express, React, Node.js)**
 
+---
 
-<br>
+## 📱 Contacto
 
-## Contacto :
+[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/nahuelpaz/)
 
-<br>
-
-[![@nahuelpaz](https://img.icons8.com/fluency/48/000000/instagram-new.png "@nahuelpaz")](https://www.instagram.com/nahuelpaz/) [![@nahuel-paz-aa9430250](https://img.icons8.com/fluency/48/000000/linkedin.png "@nahuel-paz-aa9430250")](https://www.linkedin.com/in/nahuelpazb/)
-
-<br>
+---
 
