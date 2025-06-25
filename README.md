@@ -25,7 +25,7 @@ Soy estudiante de segundo año de **Programación** en la [Universidad Tecnológ
 <p align="left">
   <img src="https://img.icons8.com/color/48/mongodb.png" title="MongoDB" alt="MongoDB" width="30"/>
   <img src="https://img.icons8.com/color/48/postgreesql.png" title="PostgreSQL" alt="PostgreSQL" width="30"/>
-  <img src="https://www.techmonitor.ai/wp-content/uploads/sites/29/2016/06/SQL.png" title="SQL" alt="SQL" width="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sql_data_base_with_logo.svg/1200px-Sql_data_base_with_logo.svg.png" title="SQL" alt="SQL" width="30"/>
 </p>
 
 ### Stack principal  
