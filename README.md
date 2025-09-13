@@ -1,8 +1,8 @@
 # 👋 Hi! I'm Nahuel Paz  
 
 🎓 University Technician in **Programming**, graduated from the [National Technological University (UTN)](https://www.frt.utn.edu.ar/).  
-💻 Passionate about **Frontend Development** and always learning.  
-🚀 Currently focused on growing as a **Web Developer**.  
+💻 Passionate **Full Stack Developer**, always learning and improving.  
+🚀 Currently focused on building modern and scalable **Web Applications**.  
 
 ---
 
