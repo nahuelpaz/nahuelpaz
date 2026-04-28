@@ -26,6 +26,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000.svg?logo=express&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000.svg?logo=rubyonrails&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white)
